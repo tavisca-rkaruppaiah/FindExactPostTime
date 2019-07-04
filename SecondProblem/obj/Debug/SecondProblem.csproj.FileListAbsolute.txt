@@ -1,0 +1,7 @@
+E:\R WS\Tavisca WS\C Sharp\SecondProblem\SecondProblem\bin\Debug\SecondProblem.exe.config
+E:\R WS\Tavisca WS\C Sharp\SecondProblem\SecondProblem\bin\Debug\SecondProblem.exe
+E:\R WS\Tavisca WS\C Sharp\SecondProblem\SecondProblem\bin\Debug\SecondProblem.pdb
+E:\R WS\Tavisca WS\C Sharp\SecondProblem\SecondProblem\obj\Debug\SecondProblem.csprojAssemblyReference.cache
+E:\R WS\Tavisca WS\C Sharp\SecondProblem\SecondProblem\obj\Debug\SecondProblem.csproj.CoreCompileInputs.cache
+E:\R WS\Tavisca WS\C Sharp\SecondProblem\SecondProblem\obj\Debug\SecondProblem.exe
+E:\R WS\Tavisca WS\C Sharp\SecondProblem\SecondProblem\obj\Debug\SecondProblem.pdb
